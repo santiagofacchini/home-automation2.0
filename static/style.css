@@ -1,0 +1,28 @@
+body {
+    background-color: #18191c;
+    color: #e2e4e9;
+    font-family: "Roboto", sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    padding: 1%;
+}
+
+.main {
+    font-size: 24px;
+    justify-content: center;
+    padding: 5%;
+}
+
+.all-lights, .devices{
+    font-size: 16px;
+    padding: 5%;
+}
+
+.material-symbols-outlined {
+    color: #898d95;
+    padding: 5%;
+}
+
+a:hover, a:focus, a:active {
+    text-decoration: none;
+}

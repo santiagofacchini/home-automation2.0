@@ -1,0 +1,5 @@
+services:
+  home-automation:
+    build: .
+    expose:
+      - 5432:5432
